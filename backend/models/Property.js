@@ -1,4 +1,4 @@
-// models/Property.js
+
 const pool = require('../config/database');
 
 class Property {
