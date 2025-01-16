@@ -19,7 +19,6 @@ Cheerio
 Puppeteer
 Development: Nodemon
  Database: MySQL2
-ORM: Prisma
 
 Clone: git clone https://github.com/aayushvatsal/RealEstate.git
 
