@@ -1,4 +1,4 @@
-// routes/api.js
+
 const express = require('express');
 const router = express.Router();
 const PropertyController = require('../controllers/scrapingController');
