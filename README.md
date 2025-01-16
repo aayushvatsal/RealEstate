@@ -17,11 +17,20 @@ Data Scraping:
 
 Cheerio
 Puppeteer
-
-
 Development: Nodemon
-
-Database
  Database: MySQL2
 ORM: Prisma
+
+Clone: git clone https://github.com/aayushvatsal/RealEstate.git
+
+Start Frontend:  cd frontend
+npm install
+npm run dev
+
+Start Backend: cd backend
+npm install
+npm run dev
+
+Open http://localhost:3000 in your browser
+
 
